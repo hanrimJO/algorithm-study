@@ -9,3 +9,5 @@
 - pull request
 
 - issue 1
+- issue2
+
